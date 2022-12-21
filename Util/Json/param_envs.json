@@ -1,0 +1,5 @@
+{
+   "SIM_WIND_DIR": {"range": [0,360],"step": 1,"default": 180},
+   "SIM_WIND_SPD": {"range": [0,10],"step": 1,"default": 0}
+}
+

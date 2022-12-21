@@ -1,0 +1,9 @@
+{
+   "SIM_WIND_DIR": {"range": [0,360],"step": 1,"default": 180},
+   "SIM_WIND_DIR_Z": {"range": [0,360],"step": 1,"default": 0},
+   "SIM_WIND_SPD": {"range": [0,10],"step": 0.1,"default": 0},
+   "SIM_ACC1_RND": {"range": [0,3],"step": 0.1,"default": 0},
+   "SIM_ACC2_RND": {"range": [0,3],"step": 0.1,"default": 0},
+   "SIM_ACC3_RND": {"range": [0,3],"step": 0.1,"default": 0}
+}
+
